@@ -1,0 +1,13 @@
+C:\Balta_C#\StringBuild\bin\Debug\netcoreapp3.1\StringBuild.exe
+C:\Balta_C#\StringBuild\bin\Debug\netcoreapp3.1\StringBuild.deps.json
+C:\Balta_C#\StringBuild\bin\Debug\netcoreapp3.1\StringBuild.runtimeconfig.json
+C:\Balta_C#\StringBuild\bin\Debug\netcoreapp3.1\StringBuild.runtimeconfig.dev.json
+C:\Balta_C#\StringBuild\bin\Debug\netcoreapp3.1\StringBuild.dll
+C:\Balta_C#\StringBuild\bin\Debug\netcoreapp3.1\StringBuild.pdb
+C:\Balta_C#\StringBuild\obj\Debug\netcoreapp3.1\StringBuild.csprojAssemblyReference.cache
+C:\Balta_C#\StringBuild\obj\Debug\netcoreapp3.1\StringBuild.AssemblyInfoInputs.cache
+C:\Balta_C#\StringBuild\obj\Debug\netcoreapp3.1\StringBuild.AssemblyInfo.cs
+C:\Balta_C#\StringBuild\obj\Debug\netcoreapp3.1\StringBuild.csproj.CoreCompileInputs.cache
+C:\Balta_C#\StringBuild\obj\Debug\netcoreapp3.1\StringBuild.dll
+C:\Balta_C#\StringBuild\obj\Debug\netcoreapp3.1\StringBuild.pdb
+C:\Balta_C#\StringBuild\obj\Debug\netcoreapp3.1\StringBuild.genruntimeconfig.cache
